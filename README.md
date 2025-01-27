@@ -1,5 +1,5 @@
 # Game List
-[![NPM](https://img.shields.io/badge/any_text-you_like-blue)](https://github.com/HenriqueSilvaIt/ProjectListaDeJogosJPA/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/badge/licence-MIT-blue)](https://github.com/HenriqueSilvaIt/ProjectListaDeJogosJPA/blob/main/LICENSE) 
 
 # Sobre o projeto
 
