@@ -38,7 +38,7 @@ https://projectlistadejogosjpa-production.up.railway.app/lists/2/games
 - Spring Boot
 - JPA / Hibernate
 - Maven
-- 
+
 ## Implantação em produção
 - Back end: Raiywail
 - Banco de dados: Postgresql
