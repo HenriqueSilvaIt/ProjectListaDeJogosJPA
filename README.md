@@ -8,7 +8,7 @@ https://projectlistadejogosjpa-production.up.railway.app/games
 Game List é uma aplicação back-end criada  durante o **Intensivão JavaSpring**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em consultar jogos de sua prefêrencia, onde os jogos estão organizados em uma lista sendo possível consulta-los por categoria e/ou nome do jogo.
-A aplicação também conta com um método que altera a posição do jogo na lista, concedendo ao usuário organizar a lista de jogos na ordem desejada.
+A aplicação também conta com um método que altera a posição do jogo na lista, concedendo ao usuário a opção de organizar a lista de jogos na ordem desejada.
 
 ## Como utilizar a aplicação:
 
